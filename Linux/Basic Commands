@@ -1,1 +1,20 @@
+Commands
 
+ ls - list files and directories
+ -a for listing hidden files
+ -l for list formt
+ -t order by time
+ -F better distinguish between regular files and directories
+ touch - creating files (original intention is updating timestamp)
+ nice to know: touch file{1..5}
+ rm - remove files
+ -r for recursive
+ -f to force removal, no questions asked
+ mkdir - create directories
+ -p - for creating multiple nested directories
+ rmdir - remove directories
+ echo - display a line of text
+ cat - concatenate files (common usage: read a file)
+ mv - move files directories (also rename files and directories)
+ cp - copy a file
+ -r for recursive (copy a directory)
