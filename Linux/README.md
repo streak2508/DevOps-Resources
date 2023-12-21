@@ -1,12 +1,15 @@
-# Linux Commands
+<img src="/images/LinuxCommands.png" align = "center" height="115" width="505" />
 
-## _A few basic commands to know if you are learning essentials for DevOps_
+# Linux Commands
+---
+## _A few basic commands to know if you are learning essentials for DevOps!_
 + ### Overview of Linux and Why it is so Popular?
 
 Linux is an open-source operating system (OS) that runs on a computer and controls all of the other software and hardware on the computer. Initially, Linux was built on the Unix operating system, which was created many decades ago as a platform for scientific and academic computing. It is used on a wide range of devices, including servers, desktop computers, laptops, cloud computing, and Mobile devices.
 
 As Linux is open-source software anyone can access its source code and make changes to it. Other than this Linux is known for its Security features. It has a large community of users and developers who are constantly working to identify and fix security vulnerabilities. Also, Linux is well known for its Customizability allowing users to modify and configure it to meet their specific needs.
 
+---
 
  * ###  Organization of Linux File System
 
@@ -43,3 +46,11 @@ In Linux, the file system is organized into a hierarchical structure, with the r
 /usr - contains user utilities and libraries as well as data shared by multiple users
 
 /var - contains variable data such as log files, mail spools, and database files
+
+---
+ * ### Linux Distributions
+Linux distributions, also known as "distros," are different versions of the Linux operating system that are built and packaged with specific versions of the architectural components, the package management system used, the graphical user interface, and the tools and applications included in it.
+
+Examples of Linux distros include Ubuntu, Fedora, Debian, CentOS, Mint, Red Hat Enterprise Linux (RHEL), etc.
+
+---
