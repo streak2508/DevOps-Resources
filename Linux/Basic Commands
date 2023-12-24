@@ -17,4 +17,4 @@ Commands
  • cat - concatenate files (common usage: read a file)
  • mv - move files directories (also rename files and directories)
  • cp - copy a file
-    -r for recursive (copy a directory)
+    -r for recursive (copy a directory).
